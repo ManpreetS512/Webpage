@@ -1,0 +1,12 @@
+This is a copy of my initial start up for most Web app projects.
+
+It includes:
+
+- Bare CodeIgniter 2.1.1 with some changes to the PDO driver and result files to get PDO to work correctly
+
+- IonAuth v2 (Last updated on this release 6/20/2012)
+
+- Default PDO support
+
+
+Anyone Can Download, just please give credit to your source(s).
